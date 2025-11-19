@@ -5,7 +5,6 @@ The algorithm calculates:
 - **Bottleneck connections** in the network
 - A **visual representation** of the influence network and capacities
 
-This is a simple, clean, easy-to-understand implementation suitable for academic submissions, research learning, and GitHub portfolio projects.
 
 ---
 
